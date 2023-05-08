@@ -60,11 +60,11 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "ZassXdOfficial"
+echo "Mirk Store"
 echo "AUTO INSTALL THEME"
 echo ""
-echo "Wa: +63 821-2614-8789"
-echo "Nama: ZassXdOfficial"
+echo "Wa: +62 821-5891-0417"
+echo "Nama: mirk store"
 echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
